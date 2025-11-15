@@ -1,0 +1,26 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "titulo": "Estudiar React",
+      "descripcion": "Leer documentación básica de componentes y hooks."
+    },
+    {
+      "id": 2,
+      "titulo": "Diseñar interfaz",
+      "descripcion": "Definir estructura de la lista de tareas."
+    },
+    {
+      "id": 3,
+      "titulo": "Configurar Drag & Drop",
+      "descripcion": "Usar la API de HTML5 para arrastrar elementos."
+    }
+  ],
+  "done": [
+    {
+      "id": 4,
+      "titulo": "Instalar Node.js",
+      "descripcion": "Asegurarse de tener Node y npm instalados."
+    }
+  ]
+}
